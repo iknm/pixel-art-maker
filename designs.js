@@ -41,3 +41,4 @@ function makeGrid() {
     }
   }
 }
+// this code was developed with the help of udacity and overflow + some GIthub users.
